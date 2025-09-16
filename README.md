@@ -1,29 +1,38 @@
-# Grocery Store Management System (PPT Project)
+# 🍽️ Exploratory Data Analysis (EDA) on Zomato Dataset  
 
-## 📌 Project Overview
-The *Grocery Store Management System* project is designed to demonstrate how technology can simplify and improve the management of day-to-day operations in a grocery store.  
-This presentation covers the key functionalities, requirements, and benefits of implementing such a system.
+## 📌 Overview  
+This project performs **Exploratory Data Analysis (EDA)** on the **Zomato Restaurants Dataset** to uncover meaningful insights about the food industry.  
+The analysis helps understand **restaurant ratings, cuisines, cost distribution, and location-based trends** using Python libraries.  
 
-The project is presented in the form of a *PowerPoint Presentation (PPT)*, making it useful for academic purposes, seminars, or quick demonstrations.
+## 🎯 Objectives  
+- Clean and preprocess raw data (handle null values, duplicates, and data types).  
+- Explore patterns in **ratings, cuisines, and cost distribution**.  
+- Analyze **location-wise restaurant availability**.  
+- Visualize insights with **charts and plots** for better data storytelling.  
 
----
+## 📊 Key Insights  
+- Distribution of ratings across restaurants.  
+- Most popular cuisines among customers.  
+- Cost for two analysis by location.  
+- Region-wise availability and density of restaurants.  
 
-## 🎯 Objectives
-- To manage *inventory and stock* efficiently.
-- To handle *billing and sales* quickly and accurately.
-- To maintain *customer and supplier details*.
-- To reduce manual effort and save time.
-- To provide better *decision-making insights* through reports.
+## 🛠️ Tech Stack  
+- **Python**  
+- **Pandas, NumPy** → Data Cleaning & Processing  
+- **Matplotlib, Seaborn** → Data Visualization  
+- **google collab**  
 
----
+## 📂 Repository Contents  
+- `Zomato_EDA.ipynb` → collab Notebook with full analysis  
+- `zomato.csv` → Dataset (if included)  
+- `README.md` → Project documentation  
 
-## 🛠 Features Covered in PPT
-- 📦 *Inventory Management* – Add, update, and track products.  
-- 🛒 *Sales & Billing System* – Easy checkout and bill generation.  
-- 👨‍👩‍👧‍👦 *Customer Management* – Maintain customer data and loyalty programs.  
-- 🚚 *Supplier Management* – Track suppliers and purchase orders.  
-- 📊 *Reports & Analytics* – Daily/weekly/monthly sales and stock reports.  
+## 🚀 How to Run  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-username/zomato-eda.git
+   cd zomato-eda
+📌 Conclusion
 
----
-
-
+This analysis provides valuable insights into restaurant performance, cuisines, customer preferences, and regional trends in the food industry.
+Such insights can help business owners, marketers, and customers make informed decisions.
